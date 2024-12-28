@@ -1,0 +1,17 @@
+# Ignorar el archivo del modelo en la carpeta app
+/app/model.pkl
+
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos y directorios generados por el entorno virtual
+env/
+venv/
+*.env
+
+# Archivos de Docker
+*.log
+*.tmp
